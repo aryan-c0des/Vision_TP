@@ -1,0 +1,8 @@
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\bin\Debug\SnakesAndLadder.exe.config
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\bin\Debug\SnakesAndLadder.exe
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\bin\Debug\SnakesAndLadder.pdb
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\obj\Debug\SnakesAndLadder.csproj.AssemblyReference.cache
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\obj\Debug\SnakesAndLadder.csproj.SuggestedBindingRedirects.cache
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\obj\Debug\SnakesAndLadder.csproj.CoreCompileInputs.cache
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\obj\Debug\SnakesAndLadder.exe
+C:\Users\yoary\Desktop\C#\Vision_TM\SnakesAndLadder\SnakesAndLadder\obj\Debug\SnakesAndLadder.pdb
